@@ -1,4 +1,4 @@
-# Java-Mandelbrot-Set-Creator
+# Java-Mandelbrot-Creator
 This Java program creates the famous Mandelbrot Set on a blank canvas using a mathematical formula. You can customize its colors & shape however you like.
 
 The Mandelbrot set is a fractal which means you can zoom in on it and you will keep seeing the same image repeating infinetly.
